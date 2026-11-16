@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libemployee_core.a CMakeFiles/employee_core.dir/src/EmployeeRepository.cpp.obj CMakeFiles/employee_core.dir/src/EmployeeService.cpp.obj
+C:\mingw64\bin\ranlib.exe libemployee_core.a

@@ -1,0 +1,246 @@
+Start testing: Nov 15 18:42 India Standard Time
+----------------------------------------------------------
+1/9 Testing: EmployeeServiceTest.AddAndSearchEmployee
+1/9 Test: EmployeeServiceTest.AddAndSearchEmployee
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.AddAndSearchEmployee" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.AddAndSearchEmployee" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.AddAndSearchEmployee
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.AddAndSearchEmployee
+[       OK ] EmployeeServiceTest.AddAndSearchEmployee (16 ms)
+[----------] 1 test from EmployeeServiceTest (16 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (16 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.AddAndSearchEmployee" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.AddAndSearchEmployee" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/9 Testing: EmployeeServiceTest.RejectDuplicateEmployeeId
+2/9 Test: EmployeeServiceTest.RejectDuplicateEmployeeId
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.RejectDuplicateEmployeeId" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.RejectDuplicateEmployeeId" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.RejectDuplicateEmployeeId
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.RejectDuplicateEmployeeId
+[       OK ] EmployeeServiceTest.RejectDuplicateEmployeeId (16 ms)
+[----------] 1 test from EmployeeServiceTest (16 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (16 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.RejectDuplicateEmployeeId" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.RejectDuplicateEmployeeId" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/9 Testing: EmployeeServiceTest.RejectInvalidAge
+3/9 Test: EmployeeServiceTest.RejectInvalidAge
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.RejectInvalidAge" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.RejectInvalidAge" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.RejectInvalidAge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.RejectInvalidAge
+[       OK ] EmployeeServiceTest.RejectInvalidAge (9 ms)
+[----------] 1 test from EmployeeServiceTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.RejectInvalidAge" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.RejectInvalidAge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/9 Testing: EmployeeServiceTest.RejectNegativeSalary
+4/9 Test: EmployeeServiceTest.RejectNegativeSalary
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.RejectNegativeSalary" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.RejectNegativeSalary" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.RejectNegativeSalary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.RejectNegativeSalary
+[       OK ] EmployeeServiceTest.RejectNegativeSalary (10 ms)
+[----------] 1 test from EmployeeServiceTest (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.RejectNegativeSalary" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.RejectNegativeSalary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/9 Testing: EmployeeServiceTest.UpdateEmployee
+5/9 Test: EmployeeServiceTest.UpdateEmployee
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.UpdateEmployee" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.UpdateEmployee" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.UpdateEmployee
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.UpdateEmployee
+[       OK ] EmployeeServiceTest.UpdateEmployee (20 ms)
+[----------] 1 test from EmployeeServiceTest (20 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (20 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.UpdateEmployee" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.UpdateEmployee" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/9 Testing: EmployeeServiceTest.DeleteEmployee
+6/9 Test: EmployeeServiceTest.DeleteEmployee
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.DeleteEmployee" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.DeleteEmployee" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.DeleteEmployee
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.DeleteEmployee
+[       OK ] EmployeeServiceTest.DeleteEmployee (21 ms)
+[----------] 1 test from EmployeeServiceTest (21 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (21 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.DeleteEmployee" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.DeleteEmployee" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/9 Testing: EmployeeServiceTest.MissingEmployeeReturnsNoRecord
+7/9 Test: EmployeeServiceTest.MissingEmployeeReturnsNoRecord
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.MissingEmployeeReturnsNoRecord" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.MissingEmployeeReturnsNoRecord" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.MissingEmployeeReturnsNoRecord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.MissingEmployeeReturnsNoRecord
+[       OK ] EmployeeServiceTest.MissingEmployeeReturnsNoRecord (8 ms)
+[----------] 1 test from EmployeeServiceTest (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.MissingEmployeeReturnsNoRecord" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.MissingEmployeeReturnsNoRecord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/9 Testing: EmployeeServiceTest.CalculateTotalSalary
+8/9 Test: EmployeeServiceTest.CalculateTotalSalary
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.CalculateTotalSalary" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.CalculateTotalSalary" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.CalculateTotalSalary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.CalculateTotalSalary
+[       OK ] EmployeeServiceTest.CalculateTotalSalary (10 ms)
+[----------] 1 test from EmployeeServiceTest (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.CalculateTotalSalary" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.CalculateTotalSalary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/9 Testing: EmployeeServiceTest.ListAllEmployees
+9/9 Test: EmployeeServiceTest.ListAllEmployees
+Command: "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests.exe" "--gtest_filter=EmployeeServiceTest.ListAllEmployees" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build
+"EmployeeServiceTest.ListAllEmployees" start time: Nov 15 18:42 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeServiceTest.ListAllEmployees
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeServiceTest
+[ RUN      ] EmployeeServiceTest.ListAllEmployees
+[       OK ] EmployeeServiceTest.ListAllEmployees (20 ms)
+[----------] 1 test from EmployeeServiceTest (20 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (21 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeServiceTest.ListAllEmployees" end time: Nov 15 18:42 India Standard Time
+"EmployeeServiceTest.ListAllEmployees" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 15 18:42 India Standard Time

@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests[1]_tests.cmake")
+  include("C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/employee_tests[1]_tests.cmake")
+else()
+  add_test(employee_tests_NOT_BUILT employee_tests_NOT_BUILT)
+endif()

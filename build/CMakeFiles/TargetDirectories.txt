@@ -1,0 +1,6 @@
+C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/CMakeFiles/employee_core.dir
+C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/CMakeFiles/employee_app.dir
+C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/CMakeFiles/employee_tests.dir
+C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/CMakeFiles/test.dir
+C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/CMakeFiles/edit_cache.dir
+C:/Users/admin/Downloads/employee_management_poc/employee_management_poc/build/CMakeFiles/rebuild_cache.dir

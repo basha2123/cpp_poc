@@ -1,0 +1,10 @@
+EmployeeServiceTest.AddAndSearchEmployee 3 0.0123344
+EmployeeServiceTest.RejectDuplicateEmployeeId 3 0.0113602
+EmployeeServiceTest.RejectInvalidAge 3 0.0100923
+EmployeeServiceTest.RejectNegativeSalary 3 0.00931737
+EmployeeServiceTest.UpdateEmployee 3 0.0140342
+EmployeeServiceTest.DeleteEmployee 3 0.0126541
+EmployeeServiceTest.MissingEmployeeReturnsNoRecord 3 0.0101206
+EmployeeServiceTest.CalculateTotalSalary 3 0.0102864
+EmployeeServiceTest.ListAllEmployees 3 0.0125864
+---
